@@ -1,0 +1,5 @@
+token
+in
+each
+line
+aaa
